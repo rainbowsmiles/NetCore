@@ -27,7 +27,7 @@ namespace CityInfo.API
                         {
                             Id=1,
                             Name = "Central Park",
-                            Description = "The most visited urban park in US"
+                            Description = "The most visited urban park in US.Yuhuu"
                         },
                         new PointOfInterestDto()
                         {
